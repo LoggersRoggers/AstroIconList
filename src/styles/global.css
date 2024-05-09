@@ -1,0 +1,79 @@
+#wrapper
+{
+    max-width:1200px;
+    margin:auto;
+}
+h1
+{
+    text-align:center;
+}
+.icon-container
+{
+    background-color:none;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:top;
+    line-height:1.7;
+    gap:2rem;
+}
+[data-icon="career"]
+{
+    color:black;
+    min-width:100px;
+    margin:0.5rem;
+    padding:0.5rem;
+    transition:all 0.25s;
+}
+[data-icon="career"]:hover
+{
+    transform:rotate(26deg);
+}
+[data-icon="dog"]
+{
+    color:black;
+    min-width:100px;
+    margin:0.5rem;
+    padding:0.5rem;
+    transition:all 0.25s;
+}
+[data-icon="dog"]:hover
+{
+    transform:rotate(26deg);
+}
+[data-icon="heart"]
+{
+    color:black;
+    min-width:100px;
+    margin:0.5rem;
+    padding:0.5rem;
+    transition:all 0.25s;
+}
+[data-icon="heart"]:hover
+{
+    transform:rotate(26deg);
+}
+[data-icon="cactus"]
+{
+    color:black;
+    min-width:100px;
+    margin:0.5rem;
+    padding:0.5rem;
+    transition:all 0.25s;
+}
+[data-icon="cactus"]:hover
+{
+    transform:rotate(26deg);
+}
+[data-icon="devil"]
+{
+    color:black;
+    min-width:100px;
+    margin:0.5rem;
+    padding:0.5rem;
+    transition:all 0.25s;
+}
+[data-icon="devil"]:hover
+{
+    transform:rotate(26deg);
+}
