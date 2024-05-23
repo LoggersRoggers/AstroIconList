@@ -65,7 +65,7 @@ h1
 {
     transform:rotate(26deg);
 }
-[data-icon="devil"]
+[data-icon="devious"]
 {
     color:black;
     min-width:100px;
@@ -73,7 +73,7 @@ h1
     padding:0.5rem;
     transition:all 0.25s;
 }
-[data-icon="devil"]:hover
+[data-icon="devious"]:hover
 {
     transform:rotate(26deg);
 }
